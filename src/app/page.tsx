@@ -28,11 +28,7 @@ export default function Home() {
       <About />
       <CallToAction />
       <Pricing />
-      
-      
-     
       <Contact />
-   
     </main>
   );
 }

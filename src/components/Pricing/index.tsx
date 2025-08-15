@@ -12,17 +12,17 @@ const Pricing = () => {
       <div className="container">
         <div className="mb-[60px]">
           <SectionTitle
-            subtitle="Pricing Table"
-            title="Our Pricing Plan"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            subtitle="Beta Period"
+            title="Free During Beta"
+            paragraph="All plans are free during the beta period. Pricing will be announced after launch."
             center
           />
         </div>
 
         <div className="-mx-4 flex flex-wrap justify-center">
           {pricingData.map((product, i) => (
-            <PricingBox key={i} product={product} />
-          ))}     
+            <PricingBox key={i} product={product} beta />
+          ))}
         </div>
       </div>
     </section>
