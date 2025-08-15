@@ -19,7 +19,7 @@ const featuresData: Feature[] = [
     ),
     title: "Custom Ideas",
     paragraph: "Don't have an idea? No problem. We will generate them.",
-    btn: "Learn More",
+    btn: "",
     btnLink: "/#",
   },
   {
@@ -40,7 +40,7 @@ const featuresData: Feature[] = [
     ),
     title: "Bring Your Own Idea",
     paragraph: "Got an idea already? No problem, we'll help validate.",
-    btn: "Learn More",
+    btn: "",
     btnLink: "/#",
   },
   {
@@ -93,7 +93,7 @@ const featuresData: Feature[] = [
     ),
     title: "Context Aware Ideas",
     paragraph: "Our AI always applies all the idea data, with none left on the floor.",
-    btn: "Learn More",
+    btn: "",
     btnLink: "/#",
   },
   {
@@ -126,7 +126,7 @@ const featuresData: Feature[] = [
     ),
     title: "Build-Ready Output",
     paragraph: "Using our structured approach, you'll be ready to build confidently.",
-    btn: "Learn More",
+    btn: "",
     btnLink: "/#",
   },
 ];

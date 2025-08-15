@@ -13,17 +13,12 @@ const About = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
-                  Brilliant Toolkit to Build Next.js SaaS Websites.
+                  ID8 is an AI Native Platform because Startup is a Repeatable Process When You Know How
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel discussions and roundtables led by subject
-                  matter experts.
+                Being repeatable means that it's able to be optimized. Whether you’re creating the next big thing in tech, launching a local venture, or solving a global problem, our system is designed to give you the structure, insights, and tools you need to succeed.
                   <br /> <br />
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel.
+                  We combine proven startup learnings with an actionable, step-by-step framework so you can move forward with confidence — knowing what to do, when to do it, and why it matters. ID8 helps you maximize the potential of your idea, giving you the highest possible chance of success as you decide where to invest your time, energy, resources, and the trust of others.
                 </p>
 
                 <Link
