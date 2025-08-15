@@ -16,9 +16,8 @@ const About = () => {
                   ID8 is an AI Native Platform because Startup is a Repeatable Process When You Know How
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                Being repeatable means that it's able to be optimized. Whether you’re creating the next big thing in tech, launching a local venture, or solving a global problem, our system is designed to give you the structure, insights, and tools you need to succeed.
-                  <br /> <br />
-                  We combine proven startup learnings with an actionable, step-by-step framework so you can move forward with confidence — knowing what to do, when to do it, and why it matters. ID8 helps you maximize the potential of your idea, giving you the highest possible chance of success as you decide where to invest your time, energy, resources, and the trust of others.
+                  Being repeatable means that it&apos;s able to be optimized. Whether you’re creating the next big thing in tech, launching a local venture, or solving a global problem, our system is designed to help you.<br /> <br />
+                  We combine proven startup learnings with an actionable, step-by-step framework so you can move forward with confidence — knowing what to do, when to do it, and why it matters. ID8 provides the clarity and support you need.
                 </p>
 
                 <Link
