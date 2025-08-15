@@ -39,7 +39,7 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "Bring Your Own Idea",
-    paragraph: "Got an idea already? No prblem, we'll help validate.",
+    paragraph: "Got an idea already? No problem, we'll help validate.",
     btn: "Learn More",
     btnLink: "/#",
   },

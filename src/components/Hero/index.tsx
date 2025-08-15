@@ -35,7 +35,7 @@ const Hero = () => {
 
                 <div>
                   <p className="mb-4 text-center text-base font-medium text-white/60">
-                    Id8 is available now as a beta. Help shape our future.
+                    ID8 is available now at no cost as a beta. Help shape our future.
                   </p>
                                   </div>
               </div>
