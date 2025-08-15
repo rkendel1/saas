@@ -4,7 +4,12 @@ import OfferList from "./OfferList";
 import { Price } from "@/types/price";
 import Link from "next/link";
 
-const PricingBox = ({ product }: { product: Price }) => {
+type PricingBoxProps = {
+  product: Price;
+  beta?: boolean;
+};
+
+const PricingBox: React.FC<PricingBoxProps> = ({ product, beta }) => {
   // POST request
   const handleSubscription = async (e: any) => {
     e.preventDefault();
